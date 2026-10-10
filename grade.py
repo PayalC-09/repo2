@@ -1,3 +1,4 @@
+print("Program Start.")
 
 marks = int(input("Enter marks :"))
 
